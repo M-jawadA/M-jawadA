@@ -1,7 +1,7 @@
 ### Hi, welcome to my GitHub! 👋
 * 💻 Im a software engineer [@CodeSuite](http://www.codesuite.org "@CodeSuite")
-* :fa-keyboard-o: Currently working on moodflik and facto.
-* 👨🏽‍💻  Learning cloud technologies.
+* ⌨️ Currently working on moodflik and facto.
+* 👨🏽‍💻 Learning cloud technologies.
 * 🤝 Looking to collaborate on projects.
 * 💬 Ask me about MERN stack and DevOps.
 * 📫 Reach me [jawadah303@gmail.com](mailto:jawadah303@gmail.com "jawadah303@gmail.com").
