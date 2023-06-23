@@ -1,6 +1,6 @@
 ### Hi, welcome to my GitHub! 👋
 * 💻 Im a software engineer
-* ⌨️ Currently working on moodflik and facto.
+* ⌨️ Currently working on moodflik and fabrik.
 * 👨🏽‍💻 Learning cloud technologies.
 * 🤝 Looking to collaborate on projects.
 * 💬 Ask me about MERN stack and DevOps.
