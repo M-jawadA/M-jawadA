@@ -1,5 +1,5 @@
 ### Hi, welcome to my GitHub! 👋
-* 💻 Im a software engineer [@CodeSuite](http://www.codesuite.org "@CodeSuite")
+* 💻 Im a software engineer
 * ⌨️ Currently working on moodflik and facto.
 * 👨🏽‍💻 Learning cloud technologies.
 * 🤝 Looking to collaborate on projects.
@@ -10,7 +10,6 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-jawwad-ahmed-512854202)
 [![UpWork](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png)](https://www.upwork.com/freelancers/~01f2f4488eb64fc1e8)
 
 # 💻 Tech Stack:
